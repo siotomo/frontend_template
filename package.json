@@ -1,0 +1,8 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:siotomo-private/frontend_template.git",
+  "author": "shiomi <shiomi@glomouth.co.jp>",
+  "license": "MIT"
+}
